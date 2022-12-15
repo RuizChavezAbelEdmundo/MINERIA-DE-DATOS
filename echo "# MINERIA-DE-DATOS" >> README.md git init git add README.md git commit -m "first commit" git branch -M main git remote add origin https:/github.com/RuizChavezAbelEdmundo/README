@@ -1,0 +1,7 @@
+echo "# MINERIA-DE-DATOS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RuizChavezAbelEdmundo/MINERIA-DE-DATOS.git
+git push -u origin main
